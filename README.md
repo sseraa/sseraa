@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 [![sseraa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sseraa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sseraa)
 
 ### Online Judge 💻
-* BOJ: [gustjs0163](http://icpc.me/gustjs0163)
-  * [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gustjs0163)](https://solved.ac/gustjs0163)
+* BOJ: [gustjs0163](http://icpc.me/gustjs0163) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gustjs0163)](https://solved.ac/gustjs0163)
 
