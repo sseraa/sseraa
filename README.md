@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
-[![sseraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseraa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sseraa&show_icons=true&theme=bear&repo=github-readme-stats" />
+</a>
 [![sseraa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sseraa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sseraa)
 
 ## Online Judge 💻
