@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    저는 <b>sseraa</b> 입니다. <br>
     🌱 I’m currently learning ML/DL, Algorithm ✨ <br>
     📫 How to reach me:
   </em>  
@@ -25,6 +24,6 @@ Here are some ideas to get you started:
 [![sseraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseraa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![sseraa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sseraa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sseraa)
 
-### Online Judge 💻
+## Online Judge 💻
 * BOJ: [gustjs0163](http://icpc.me/gustjs0163) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gustjs0163)](https://solved.ac/gustjs0163)
 
