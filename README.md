@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### SSERAA 🍰
 <!--
 **sseraa/sseraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +27,5 @@ Here are some ideas to get you started:
 
 ### Online Judge 💻
 * BOJ: [gustjs0163](http://icpc.me/gustjs0163)
-  * solvedac: [gustjs0163](https://solved.ac/profile/gustjs0163)
+  * [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gustjs0163)](https://solved.ac/gustjs0163)
+
